@@ -1,3 +1,3 @@
 from .queue import Queue
 
-__ALL__ = ['Queue']
+__all__ = ['Queue']
